@@ -9,7 +9,7 @@
       
     background-color
     : 
-    #131728
+    #5e6999
     ;
       
     font-family
@@ -31,14 +31,14 @@
       
     background-color
     : 
-    #131728
+    #241d62
     ; 
     /* Add # before color code */
     
       
     padding
     : 
-    10px
+    15px
     ;
     }
     
@@ -54,7 +54,7 @@
     : block;
       
     color
-    : white;
+    : rgb(225, 213, 213);
       
     text-align
     : center;
@@ -92,7 +92,7 @@
       
     background-color
     : 
-    #151f30
+    #d6dde3
     ;
       
     width
@@ -102,12 +102,12 @@
       
     height
     : 
-    43px
+    45px
     ;
       
     border-radius
     : 
-    11px
+    15px
     ;
       
     display
@@ -194,7 +194,7 @@
       
     border-radius
     : 
-    19px
+    17px
     ;
       
     padding
@@ -207,6 +207,6 @@
       
     background-color
     : 
-    #151f30
+    #2e5597
     ;
     }
